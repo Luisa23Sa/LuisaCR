@@ -1,0 +1,617 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+*{
+   font-family: Poppins;
+}
+
+.Lanzador{
+    font-size: 13px;
+    padding: 1%;
+    text-align: center;
+    color: #f0dce3;
+    background-color: #ea1f7c;
+}
+
+
+.Logo{
+    
+    padding: 20px;  
+    background-color: #f0dce3; 
+}
+
+
+.Imagen1{
+    margin-right: 500px
+}
+
+.Imagen6{
+    margin-right: 520px;
+}
+
+
+
+
+
+.Enlaces{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    background-color: #f49bbd;
+}
+.Enlaces a{
+    font-weight: bold;
+    margin: 10px;
+    font-size: 20px;
+    color: #ea1f7c;
+    text-decoration: none;
+    height: 20px;
+    background-color: #f49bbd;
+}
+
+.Relleno{
+    background-color: #f0dce3;
+}
+
+.Informacion1{
+    padding: 3%;
+    display: flex;
+    justify-content: center;
+    ;
+}
+
+.Informacion2{
+   
+    margin: 0px;
+    padding: 5%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse
+}
+
+.imagenP1{
+
+text-align: left;
+}
+
+.imagenP2{
+    text-align: right;
+}
+
+.texto1{  
+    font-size: 15px;
+    text-align: right;
+    color: #ea1f7c;
+}
+
+.texto2{  
+    margin-left: 10%;
+    font-size: 15px;
+    text-align: left;
+    color: #ea1f7c;
+}
+
+.texto1 h2{
+    font-size:38px;
+    color: #ea1f7c;
+}
+
+.texto2 h2{
+    font-size: 38px;
+    color: #ea1f7c;
+}
+
+.Cuadros{
+    display: flex;
+}
+
+
+.Lanas{
+    margin-top: 50px;
+    color: #ea1f7c;
+    text-align: center;
+    
+}
+
+.LYA{
+
+    background-color: #F4B3CE;
+    padding: 10px;
+    
+}
+
+
+.Boton1{
+  background-color: #F4B3CE;
+    color: #ea1f7c;
+    border: none;
+    padding: 4px 35px;
+    border-radius: 15px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+.ImagenesLanas{
+    
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.Titulos1{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: #ea1f7c;
+}
+
+
+.Lc{
+    margin-left: 30px;
+    margin-right: 40px;
+}
+.Lb{
+    margin-left: 15px;
+}
+
+
+.TextoPrecios{
+color: #ea1f7c;
+display: flex;
+justify-content: space-around;
+}
+
+.TextoDescripcion a{
+color: #ea1f7c;
+}
+
+
+.TextoDescripcion{
+display: flex;
+justify-content: center;
+justify-content: space-around;
+}
+
+.Botones{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Vertodo{
+    margin-top: 30px;
+    padding: 6px 50px;
+    text-align: center;
+}
+
+.SegundoCubiculo{
+    background-color: #FCB4D2;
+}
+
+.PSP{
+    margin-bottom: 50px;
+    background-color: #f49bbd;
+    padding: 10px;
+}
+
+.ProductosS{
+    
+    color: #ea1f7c;
+    text-align: center;
+}
+
+.Boton2{
+    background-color: #f49bbd;
+      color: #ea1f7c;
+      border: none;
+      padding: 4px 35px;
+      border-radius: 15px;
+      margin-bottom: 30px;
+      font-weight: bold;
+  }
+
+.ImagenesProductos1{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.Titulos2{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: #ea1f7c;
+}
+
+.Ag{
+    margin-left: 30px;
+    margin-right: 40px;
+}
+.Ac{
+    margin-left: 15px;
+}
+
+.TextoPrecios2{
+    color: #ea1f7c;
+    display: flex;
+    justify-content: space-around;
+    }
+
+
+.TextoDescripcion2 a{
+color: #ea1f7c;
+}
+
+
+.TextoDescripcion2{
+display: flex;
+justify-content: center;
+justify-content: space-around;
+}
+
+
+
+
+
+
+
+
+
+
+.PCA{
+    margin-bottom: 50px;
+    background-color: #F4B3CE;
+    padding: 10px;
+}
+
+.PCA{
+    
+    color: #ea1f7c;
+    text-align: center;
+}
+
+.CompraA{
+    color: #ea1f7c;
+    text-align: center;
+}
+
+.ImagenesCompraA{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.TitulosCA{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: #ea1f7c;
+}
+
+.Ama{
+    margin-left: 30px;
+    margin-right: 90px;
+}
+
+.Rf{
+    margin-right: 128px;
+}
+
+.Rf2{
+    margin-left: 30px;
+    margin-right: 70px;
+}
+
+.TextoPreciosCA{
+    color: #ea1f7c;
+    display: flex;
+    justify-content: space-around;
+    }
+
+
+.TextoDescripcionCA a{
+color: #ea1f7c;
+}
+
+
+.TextoDescripcionCA{
+display: flex;
+justify-content: center;
+justify-content: space-around;
+}
+
+
+
+
+
+
+
+
+.CuartoCubiculo{
+    background-color: #FCB4D2;
+   }
+
+.Suscribir{
+    
+    margin-bottom: 50px;
+    background-color: #F4B3CE;
+    padding: 10px;
+}
+
+.Suscribir{
+    margin-top: 40px;
+    color: #ea1f7c;
+    text-align: center;
+}
+
+.BotomE{
+    border-radius: 5%;
+    border: 0%;
+    background-color: #ea1f7c;
+    margin-top: 30px;
+    padding: 6px 50px;
+    text-align: center;
+}
+
+.Logos{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.LogoT{
+    margin-left: 30px;
+    
+}
+
+.LogoY{
+    margin-left: 30px;
+}
+
+.Final{
+    margin-top: 70px;
+    text-align: center;
+    margin-bottom: 0%;
+}
+
+
+@media screen and (max-width: 768px) {
+    .Lanzador h1{
+        font-size: 20px;
+    }
+    
+    .Imagen1{
+        margin-right: 200px
+    }
+    
+    .Imagen6{
+        margin-right: 245px;
+    }
+
+   .texto1{
+    font-size: 10px;
+
+   }
+
+   .imagenP1{
+    margin-top: 28px;
+   }
+  
+   .texto2{
+    font-size: 10px;
+   }
+
+   .texto2 h2{
+    font-size: 30px;
+   }
+
+  .imagenP2{
+   width: 70%;
+   }
+
+   .Logos a{
+    width: 4%;
+ }
+
+.Logos img{
+    width: 4%;
+ }
+
+
+}
+
+@media screen and (max-width: 426px){
+  
+    .Imagen1{
+        margin-right: 40px
+    }
+
+    .Imagen6{
+        margin-right: 45px;
+    }
+
+    .Imagen2{
+        margin-left: 15px;
+    }
+
+    .Enlaces a{
+        font-size: 12px;
+        margin-right: 10px;
+    
+    }
+
+
+
+    .texto1{
+        font-size: 6px;
+    
+       }
+
+    .texto1 h2{
+        font-size: 18px;
+    }
+
+    .imagenP1{
+       margin-top: 20px;
+       width: 70%;
+    }
+
+
+
+
+    .texto2{
+        font-size: 6px;
+    
+       }
+
+    .texto2 h2{
+        font-size: 18px;
+    }
+
+    .imagenP2{
+       margin-top: 20px;
+       width: 60%;
+    }
+
+
+
+
+    .Lanas{
+        margin-top: 0%;
+    }
+
+    .Lanas p{
+        font-size: 10px;
+    }
+
+    .ImagenesLanas img{
+        width: 28%;
+    }
+
+    .Titulos1{
+         font-size: 10px;
+    }
+
+    .Lc{
+        margin-left: 20px;
+        margin-right: 12px;
+    }
+    .Lb{
+        margin-left: 10px;
+    }
+
+    .TextoPrecios{
+        font-size: 10px;
+        }
+        
+    .TextoDescripcion a{
+        font-size: 8px;
+        }
+
+    .Botones input{
+        width: 10px;
+        font-size: 5px;
+        display: flex;
+        justify-content: center;
+    }
+
+
+
+
+
+    .ProductosS p{
+        font-size: 10px;
+    }
+
+    .ImagenesProductos1 img{
+        width: 28%;
+    }
+
+    .Titulos2{
+         font-size: 10px;
+    }
+
+    .Ag{
+        margin-left: 25px;
+        margin-right: 18px;
+    }
+    .Ac{
+        margin-left: 10px;
+    }
+
+    .TextoPrecios2{
+        font-size: 10px;
+        }
+        
+    .TextoDescripcion2 a{
+        font-size: 8px;
+        }
+
+    .Botones input{
+        width: 10px;
+        font-size: 5px;
+        display: flex;
+        justify-content: center;
+    }
+
+
+
+
+    .CompraA p{
+        font-size: 10px;
+    }
+
+    .ImagenesCompraA img{
+        width: 28%;
+    }
+
+    .TitulosCA{
+         font-size: 10px;
+    }
+
+    .Ama{
+    
+        margin-left: 5px;
+        margin-right: 10px;
+    }
+    .Rf{
+        margin-left: 10px;
+        margin-right: 35px;
+    }
+
+    .Rf2{
+       margin-right: 35px;
+    }
+
+    .TextoPreciosCA{
+        font-size: 10px;
+        }
+        
+    .TextoDescripcionCA a{
+        font-size: 8px;
+        }
+
+    
+
+
+     .Logos a{
+        width: 4%;
+     }
+
+    .Logos img{
+        width: 4%;
+     }
+
+
+
+}
